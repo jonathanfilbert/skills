@@ -1,5 +1,7 @@
 # skills
 
+[![skills.sh](https://skills.sh/b/jonathanfilbert/skills)](https://skills.sh/jonathanfilbert/skills)
+
 Personal [agent skills](https://skills.sh) by Jonathan Filbert.
 
 ## Install
