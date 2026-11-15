@@ -1,0 +1,19 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "jonathanfilbert-skills",
+  "description": "Agent skills by Jonathan Filbert",
+  "owner": {
+    "name": "Jonathan Filbert",
+    "url": "https://github.com/jonathanfilbert"
+  },
+  "plugins": [
+    {
+      "name": "kartu-kredit-id",
+      "source": "./",
+      "description": "Indonesia-only credit card research: miles, points, cashback, devaluation checks, large one-off spends. Search-first, issuer sources over aggregators.",
+      "version": "1.0.0",
+      "category": "finance",
+      "skills": ["./skills/kartu-kredit-id"]
+    }
+  ]
+}
